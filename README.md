@@ -117,6 +117,11 @@ Filter `ftp-data.command contains "RETR"`
 
 Hasilnya adalah tidak ada paket.
 
+Tambahan: sedangkan untuk mengirim file dipakai contains STOR.
+Filter `ftp-data.command contains "STOR"`
+<img alt="" src="images/image30.png">
+
+
 **Soal 9**
 > Dari paket-paket yang menuju FTP terdapat indikasi penyimpanan beberapa file. Salah satunya adalah sebuah file berisi data rahasia dengan nama "secret.zip". Simpan dan buka file tersebut!
 
