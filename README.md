@@ -219,3 +219,7 @@ Gunakan ipconfig untuk mengetahui IP address device (192.168.1.4)
 Gunakan Wireshark filter expression (capture):
 ip src 192.168.1.4
 <img alt="" src="images/image16.png">
+
+## Kendala
+- Jaringan internet yang lama karena telkom bermasalah.
+- Penggunaan VPN di salah satu laptop anggota sehingga beberapa capture filter tidak berjalan semestinya.
